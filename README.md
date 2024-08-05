@@ -43,7 +43,8 @@ cd iems_2.0
 ```
 # Follow setup instructions in the repository
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This code is protected under an "All Rights Reserved" license. You must obtain explicit permission from the copyright holder before using, distributing, or modifying this work.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for review.
